@@ -11,6 +11,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
+// • DaniBotz Team
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -51,26 +52,26 @@ global.sdc = 'https://instagram.com/itsme_nitsu'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081335334848'
-global.povo = '-'
-global.pgopay = '085785694474'
-global.ppulsa = '081335334848'
-global.ppulsa2 = '081335334848'
+global.pdana = '081251549899'
+global.povo = '081352848936'
+global.pgopay = '081352848936'
+global.ppulsa = '081251549899'
+global.ppulsa2 = '081352848936'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '79111309292'
-global.nomorown = '6285785694474'
-global.namebot = 'VīoLaꪶ͢Botzꫂ⁩'
-global.nameown = 'ζλκλꪶ͢Kunꫂ⁩'
+global.nomorbot = '6282122977451'
+global.nomorown = '6281251549899'
+global.namebot = 'Daniꪶ͢Botzꫂ⁩'
+global.nameown = 'Daniꪶ͢Botxꫂ⁩'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285785694474'],
-  ['6285785694474'],
-  ['6285785694474'],
-  ['6285785694474', 'LETTA ! 🐰', true]
+  ['6281251549899'],
+  ['6281251549899'],
+  ['6281251549899'],
+  ['6281251549899', 'LETTA ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,13 +117,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VīoLaꪶ͢Chanꫂ⁩˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ VīoLaꪶ͢Botzꫂ⁩'
+global.wm = '                「 Dani×Botzꫂ⁩ あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dani×Botzꫂ⁩˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Daniꪶ͢Botzꫂ⁩'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」'
+global.author = '                「 Daniꪶ͢Botzꫂ⁩ あ⁩ 」'
 
 
 /*============== LOGO ==============*/
